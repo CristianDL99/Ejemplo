@@ -21,5 +21,10 @@ namespace Proyecto_Moanso_Ejemplo
         {
 
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -63,6 +63,16 @@ namespace Proyecto_Moanso_Ejemplo.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap a {
+            get {
+                object obj = ResourceManager.GetObject("a", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap fondo_elegante_textura_blanca_23_2148438405 {
             get {
                 object obj = ResourceManager.GetObject("fondo-elegante-textura-blanca_23-2148438405", resourceCulture);

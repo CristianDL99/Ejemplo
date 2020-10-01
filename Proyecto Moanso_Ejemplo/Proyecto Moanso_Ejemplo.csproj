@@ -83,5 +83,8 @@
   <ItemGroup>
     <None Include="Resources\fondo-elegante-textura-blanca_23-2148438405.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
